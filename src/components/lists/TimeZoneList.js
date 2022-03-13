@@ -84,7 +84,7 @@ export default function TimeZoneList({ setTimezone, setImgSource }) {
 		},
 		{
 			id: 112,
-			country: 'Sweden',
+			country: 'Stockholm',
 			tz: 'Europe/Stockholm',
 			image: 'Stockholm.jpg',
 		},
